@@ -3,10 +3,10 @@ Write addition, subtraction, multiplication, and division operations that each r
 Be sure to enclose your operations in print statements to see the results.*/
 //Solution
 //Addition
-console.log(6+2);
+console.log(6 + 2);
 //Subtraction
-console.log(69-61);
+console.log(69 - 61);
 //Multiplication
-console.log(2*4);
+console.log(2 * 4);
 //Division
-console.log(16/2);
+console.log(16 / 2);
