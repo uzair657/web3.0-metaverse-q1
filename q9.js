@@ -8,9 +8,7 @@ Then write one sentence describing what the program does.*/
 //Here I am creating a variable person_name and assigning a value to  this variable
 var person_name = "Uzair Ahmad";
 //In This Line I am printing whole message to console
-console.log(
-  "Hello " + person_name + ", would you like to learn some Python today?"
-);
+console.log("Hello " + person_name + ", would you like to learn some Python today?");
 /*********Program 1 End *********/
 /*********Program 2 Start *********/
 //Here I am creating a variable person_Name and assigning a value to  this variable

@@ -4,11 +4,11 @@
 //about these items, such as “I would like to own a Honda motorcycle.”
 /******Solution******/
 const my_transportation_mode = [
-  "Honda Motorcycle",
-  "Honda Car",
-  "Tesla Car",
-  "BMW Heavy Bike",
+    "Honda Motorcycle",
+    "Honda Car",
+    "Tesla Car",
+    "BMW Heavy Bike",
 ];
 my_transportation_mode.forEach((vehical) => {
-  console.log("I would like to own a " + vehical);
+    console.log("I would like to own a " + vehical);
 });
