@@ -5,9 +5,7 @@
 const guestList: String[] = ["Usama Yousaf", "Ali Ahmad", "Hashim Raza"];
 guestList.forEach((element) => {
   console.log(
-    "Hi, " +
-      element +
-      " I hope you are fine. I am inviting you for a dinner please come join us."
+    `Hi, ${element} I hope you are fine. I am inviting you for a dinner please come join us.`
   );
 });
 export{}
