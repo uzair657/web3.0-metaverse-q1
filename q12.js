@@ -10,5 +10,5 @@ const my_transportation_mode = [
     "BMW Heavy Bike",
 ];
 my_transportation_mode.forEach((vehical) => {
-    console.log("I would like to own a " + vehical);
+    console.log(`I would like to own a ${vehical}`);
 });

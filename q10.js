@@ -1,5 +1,6 @@
 "use strict";
-var friends_name = [
+Object.defineProperty(exports, "__esModule", { value: true });
+let friends_name = [
     "Usama Yousaf",
     "Hashim Raza",
     "Ali Ahmad",
